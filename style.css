@@ -1,0 +1,88 @@
+.con {
+    /*background-color: lightblue;*/
+    height: 80vh;
+    font-family: 'Audiowide', cursive;
+}
+
+h1 {
+    color: snow;
+    text-align: center;
+    text-shadow: 0 0 5px #FF0000, 0 0 7px #0000FF;
+}
+
+.jumbotron {
+    font-size: 3em;
+    margin-top: 20px auto;
+    background-color: fuchsia;
+    background: radial-gradient(circle, fuchsia, hotpink, white);
+    border: 7px solid lightpink;
+    box-shadow: 8px 8px 8px 8px slategray;
+    opacity: 0.7;
+}
+
+.btn {
+    text-shadow: 0 0 5px #FF0000, 0 0 7px #0000FF;
+    color: snow;
+    box-shadow: 0 0 5px #FF0000, 0 0 7px #0000FF;
+    background: radial-gradient(circle, fuchsia, hotpink);
+}
+
+.navbar {
+    font-size: 15px;
+    background: radial-gradient(circle, fuchsia, hotpink, white);
+    color: ghostwhite;
+    text-shadow: 0 0 5px #FF0000, 0 0 7px #0000FF;
+    border-bottom: 10px silver;
+    font-family: 'Audiowide', cursive;
+}
+
+.navbar-brand {
+    margin-right: 500px;
+}
+
+.img1 {
+    margin-left: 400px;
+    border: 0 0 5px #FF0000, 0 0 7px #0000FF;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #FF0000, 0 0 13px #0000FF;
+}
+
+.nav-link {
+    font-size: 21px;
+    color: ghostwhite;
+    text-shadow: 0 0 5px #FF0000, 0 0 7px #0000FF;
+}
+
+.dropdown-menu {
+    color: ghostwhite;
+    background: radial-gradient(circle, fuchsia, hotpink, white);
+    text-shadow: 0 0 5px #FF0000, 0 0 7px #0000FF;
+}
+
+.dropdown-item {
+    color: ghostwhite;
+    background: radial-gradient(circle, fuchsia, hotpink, white);
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.form-control {
+    margin-right: 300px;
+    border: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    border-radius: 20px;
+    box-shadow: inset 0 0 5px #FF0000, 0 0 7px #0000FF;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: snow;
+    text-shadow: 0 0 5px #FF0000, 0 0 7px #0000FF;
+    font-size: 25px;
+    text-align: center;
+    background: radial-gradient(circle, fuchsia, hotpink, white);
+    box-shadow: 5px 5px 5px 5px slategray;
+    opacity: 0.7;
+}
